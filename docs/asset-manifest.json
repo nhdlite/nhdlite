@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.70c27800.chunk.css",
-    "main.js": "/static/js/main.df8d7ea1.chunk.js",
-    "main.js.map": "/static/js/main.df8d7ea1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.596db79f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.596db79f.js.map",
-    "static/js/2.246eee89.chunk.js": "/static/js/2.246eee89.chunk.js",
-    "static/js/2.246eee89.chunk.js.map": "/static/js/2.246eee89.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.56da721ab79796ae22e4e906d5599d84.js": "/precache-manifest.56da721ab79796ae22e4e906d5599d84.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.70c27800.chunk.css.map": "/static/css/main.70c27800.chunk.css.map",
-    "static/js/2.246eee89.chunk.js.LICENSE.txt": "/static/js/2.246eee89.chunk.js.LICENSE.txt",
-    "static/media/profilePicture1.jpg": "/static/media/profilePicture1.c3829a87.jpg"
+    "main.css": "nhdlite/static/css/main.70c27800.chunk.css",
+    "main.js": "nhdlite/static/js/main.df8d7ea1.chunk.js",
+    "main.js.map": "nhdlite/static/js/main.df8d7ea1.chunk.js.map",
+    "runtime-main.js": "nhdlite/static/js/runtime-main.596db79f.js",
+    "runtime-main.js.map": "nhdlite/static/js/runtime-main.596db79f.js.map",
+    "static/js/2.246eee89.chunk.js": "nhdlite/static/js/2.246eee89.chunk.js",
+    "static/js/2.246eee89.chunk.js.map": "nhdlite/static/js/2.246eee89.chunk.js.map",
+    "index.html": "nhdlite/index.html",
+    "precache-manifest.56da721ab79796ae22e4e906d5599d84.js": "nhdlite/precache-manifest.56da721ab79796ae22e4e906d5599d84.js",
+    "service-worker.js": "nhdlite/service-worker.js",
+    "static/css/main.70c27800.chunk.css.map": "nhdlite/static/css/main.70c27800.chunk.css.map",
+    "static/js/2.246eee89.chunk.js.LICENSE.txt": "nhdlite/static/js/2.246eee89.chunk.js.LICENSE.txt",
+    "static/media/profilePicture1.jpg": "nhdlite/static/media/profilePicture1.c3829a87.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.596db79f.js",
-    "static/js/2.246eee89.chunk.js",
-    "static/css/main.70c27800.chunk.css",
-    "static/js/main.df8d7ea1.chunk.js"
+    "nhdlite/static/js/runtime-main.596db79f.js",
+    "nhdlite/static/js/2.246eee89.chunk.js",
+    "nhdlite/static/css/main.70c27800.chunk.css",
+    "nhdlite/static/js/main.df8d7ea1.chunk.js"
   ]
 }
